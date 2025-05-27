@@ -8,8 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/1hJTa9JkIL7o04ofbDswSHya5ydZbpxD1vVtfTX_mE8k/edit',
-	'https://docs.google.com/forms/d/1-fuYczTmH7GSA9CJY6uLDsicf8cP9KDpTpNqYQhmhto/edit',
+	'https://docs.google.com/forms/d/1DyI79E7pbiGtZFcpB1XMLDe5VaQWFK37Yy-DEUmR8AE/edit',
+	'https://docs.google.com/forms/d/113unhHPTV8OrWsMoOwwjQLFhB9REdyxTUM3rZjjHj9w/edit',
 	
 
 ];
